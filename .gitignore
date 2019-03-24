@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Others
+.idea/
+VS14MORT.txt.gz
+ccFraud.csv.gz
+**/metastore_db
